@@ -35,7 +35,7 @@ public class MainClasss {
 				}
 			}
 			
-			// make decision as to how the record is going to be retrieved
+			//make decision as to how the record is going to be retrieved
 			break;
 		}
 	}
