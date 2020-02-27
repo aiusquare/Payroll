@@ -6,6 +6,7 @@ public class CustomerRecord implements Serializable{
 	String employeeName;
 	int employeeLevel;
 	int employeeRate;
+	int totalHoursWorked[];
 	
 	public CustomerRecord(String name, String code, int level, int rate) {
 		employeeName= name;
