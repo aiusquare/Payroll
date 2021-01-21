@@ -30,6 +30,7 @@ public class MainClasss {
 				}
 			}
 			
+				
 			recList.saveList(recList);
 			System.out.println("record saved");
 			break;
